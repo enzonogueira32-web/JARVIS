@@ -1,6 +1,6 @@
 # JARVIS
 
-
+observação: este projeto teve que ser descontinuado, pois o programador atualmente não possui a idade necessária para criar uma chave api gratuita
 
 Assistente pessoal para computador desenvolvido em Python, utilizando Machine Learning para entender comandos em linguagem natural e executar ações no computador.
 
