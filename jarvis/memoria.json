@@ -1,0 +1,50 @@
+[
+    {
+        "role": "user",
+        "content": "meu nome é João"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi: meu nome é João"
+    },
+    {
+        "role": "user",
+        "content": "Você: eu gosto de programação"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi: Você: eu gosto de programação"
+    },
+    {
+        "role": "user",
+        "content": "Você: /memoria"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi: Você: /memoria"
+    },
+    {
+        "role": "user",
+        "content": "oi"
+    },
+    {
+        "role": "assistant",
+        "content": "O cérebro do Gemini ainda não foi conectado. A API será configurada no final do projeto."
+    },
+    {
+        "role": "user",
+        "content": "C:\\Users\\SuporteTI\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/SuporteTI/Downloads/jarvis/jarvis.py"
+    },
+    {
+        "role": "assistant",
+        "content": "O cérebro do Gemini ainda não foi conectado. A API será configurada no final do projeto."
+    },
+    {
+        "role": "user",
+        "content": "oi"
+    },
+    {
+        "role": "assistant",
+        "content": "O cérebro do Gemini ainda não foi conectado. A API será configurada no final do projeto."
+    }
+]
